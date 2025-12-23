@@ -102,8 +102,13 @@ npm run dev
 
 ## 👥 Team MysticSikkim
 
-- **Developers:** [Your Team Names]  
-- **Domain Experts:** [Mentors / Guides]  
+- **Developers:** 
+  ⋆ Karan Gupta
+  ⋆ Varun
+  ⋆ Vineeta
+  ⋆ Samyak Jain
+  ⋆ Gitesh
+  ⋆ Tanishq  
 - **Role in SIH:** Preserving Sikkim’s heritage with cutting-edge digital solutions.  
 
 ---
